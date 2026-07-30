@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0009-palindrome-number) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nehal-31/LeetCode-suiii/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
 |  |
