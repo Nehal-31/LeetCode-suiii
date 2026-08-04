@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0485-max-consecutive-ones](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0486-predict-the-winner) |
@@ -73,5 +74,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
