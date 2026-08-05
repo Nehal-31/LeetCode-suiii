@@ -76,4 +76,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Nehal-31/LeetCode-suiii/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Nehal-31/LeetCode-suiii/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Nehal-31/LeetCode-suiii/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
