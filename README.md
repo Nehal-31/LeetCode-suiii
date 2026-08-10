@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0485-max-consecutive-ones](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0496-next-greater-element-i) |
 | [0877-stone-game](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Nehal-31/LeetCode-suiii/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Nehal-31/LeetCode-suiii/tree/master/1406-stone-game-iii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0496-next-greater-element-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nehal-31/LeetCode-suiii/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Nehal-31/LeetCode-suiii/tree/master/3731-find-missing-elements) |
 ## Math
@@ -140,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Nehal-31/LeetCode-suiii/tree/master/1510-stone-game-iv) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
