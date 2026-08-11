@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0485-max-consecutive-ones](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0496-next-greater-element-i) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Depth-First Search
 |  |
 | ------- |
