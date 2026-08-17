@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0321-create-maximum-number](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0321-create-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0496-next-greater-element-i) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0321-create-maximum-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nehal-31/LeetCode-suiii/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Nehal-31/LeetCode-suiii/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Nehal-31/LeetCode-suiii/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0321-create-maximum-number) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Nehal-31/LeetCode-suiii/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
@@ -149,9 +152,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
