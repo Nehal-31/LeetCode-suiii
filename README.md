@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0503-next-greater-element-ii) |
 | [0877-stone-game](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Nehal-31/LeetCode-suiii/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Nehal-31/LeetCode-suiii/tree/master/1406-stone-game-iii) |
@@ -154,9 +155,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0321-create-maximum-number](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Nehal-31/LeetCode-suiii/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
